@@ -1,2 +1,2 @@
 # calulator-software
-Software displays current weather forecast and random daily quote
+A fully functional calculator with finished back end implementation and a well designed user interface that allows for ease of use. Very similar to built-in Windows 10 calculator.
